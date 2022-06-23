@@ -3,7 +3,7 @@ import Saat from "./components/saat";
 
 function App() {
   return (
-    <div>
+    <div className="container">
       <Saat />
     </div>
   );
