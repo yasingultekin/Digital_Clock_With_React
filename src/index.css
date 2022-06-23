@@ -13,5 +13,6 @@ code {
 }
 
 .container {
-  font-size: 4rem;
+  font-size: 8rem;
+  letter-spacing: 5px;
 }
